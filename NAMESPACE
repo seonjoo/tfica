@@ -2,8 +2,11 @@
 
 export(tfica.multicore)
 export(tfica.singlecore)
+export(tfplot)
 import(coloredICA)
 import(dplR)
+import(ggplot2)
+import(gridExtra)
 import(parallel)
 import(polspline)
 import(seewave)
