@@ -13,4 +13,5 @@ Imports:
     coloredICA,
     polspline,
     dplR,
-    seewave
+    seewave,
+    parallel

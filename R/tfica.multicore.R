@@ -13,6 +13,7 @@
 #' @import polspline
 #' @import dplR
 #' @import seewave
+#' @import parallel
 #' @return
 #' @export
 #'
